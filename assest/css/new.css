@@ -292,7 +292,7 @@
 
 .blog__home{
     position: absolute;
-    background-image: url(./assest/img/blog_background1.jpg.webp);
+    background-image: url(/assest/img/blog_background1.jpg.webp);
     width: 100%;
     height:100%;
     background-size: cover;

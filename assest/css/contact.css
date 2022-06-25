@@ -151,7 +151,7 @@ html{
 
 
 .slider{
-    background-image:url(./assest/img/contact_bg.jpg);
+    background-image:url(/assest/img/contact_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
